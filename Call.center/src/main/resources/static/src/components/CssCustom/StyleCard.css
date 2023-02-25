@@ -1,0 +1,32 @@
+.circular-square {
+  border-radius: 50%;
+}
+
+.circular-square {
+  border-top-left-radius: 50% 50%;
+  border-top-right-radius: 50% 50%;
+  border-bottom-right-radius: 50% 50%;
+  border-bottom-left-radius: 50% 50%;
+}
+
+.cardcss {
+  padding: 30px;
+  position: relative;
+  height: 100dvh;
+  width: 700px;
+
+}
+
+.cardcssSub {
+  height: 200px;
+  width: 300px;
+  padding-top: 80px;
+  text-align: center;
+  background: #52C0F5;
+  color: rebeccapurple;
+  font-family: sans-serif;
+  font-size: 12px;
+  text-transform: uppercase;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
